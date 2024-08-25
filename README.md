@@ -118,6 +118,36 @@ Response: The updated course
 Response: A success message indicating that the course has been deleted.
 -In conclusion, the REST API design for the StudyNotion ed-tech platform is a crucial part of the project. The API endpoints and their functionalities are designed to ensure seamless communication between the front-end and back-end of the application. By following RESTful principles, the API will be scalable, maintainable, and reliable. The sample API requests and responses provided above illustrate how each endpoint will function and what kind of data it will accept or return. With this API design, StudyNotion will be able to provide a smooth user experience while ensuring security and stability.
 
+## Installation
+
+1. Clone the repository to your local machine.
+    ```sh
+    git clone https://github.com/himanshu8443/Study-Notion-master.git
+    ```
+
+2. Install the required packages.
+    ```sh
+    cd Study-Notion-master
+    npm install
+    
+    cd server
+    npm install
+    ```
+
+3. Set up the environment variables:
+
+   Create a .env file in the root directory and /server
+   Add the required environment variables, such as database connection details, JWT secret, and any other necessary configurations check .env.example files for more info.
+
+
+4. Start the development server.
+    ```sh
+    npm run dev
+    ```
+
+5. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
+
+The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
 
 
 
