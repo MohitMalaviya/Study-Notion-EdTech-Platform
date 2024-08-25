@@ -43,22 +43,22 @@ The database for the platform is built using MongoDB, which is a NoSQL database 
 <h1>Front End</h1>
 <p>The front end of StudyNotion has all the necessary pages that an ed-tech platform should have. Some of these pages are:</p>
 <h2>For Students:</h2>
-1.Homepage: This page will have a brief introduction to the platform, as well as links to the course list and user details.
-2. Course List: This page will have a list of all the courses available on the platform, along with their descriptions and ratings.
-3. Wishlist: This page will display all the courses that a student has added to their wishlist.
-4. Cart Checkout: This page will allow the user to complete the course purchase.
-5. Course Content: This page will have the course content for a particular course, including videos, and other related material.
-6. User Details: This page will have details about the student's account, including their name, email, and other relevant information.
-7. User Edit Details: This page will allow the student to edit their account details.
+1. Homepage: This page will have a brief introduction to the platform, as well as links to the course list and user details.<br>
+2. Course List: This page will have a list of all the courses available on the platform, along with their descriptions and ratings.<br>
+3. Wishlist: This page will display all the courses that a student has added to their wishlist.<br>
+4. Cart Checkout: This page will allow the user to complete the course purchase.<br>
+5. Course Content: This page will have the course content for a particular course, including videos, and other related material.<br>
+6. User Details: This page will have details about the student's account, including their name, email, and other relevant information.<br>
+7. User Edit Details: This page will allow the student to edit their account details.<br>
 <h2>For Instructors:</h2>
-1. Dashboard: This page will have an overview of the instructor's courses, as well as the ratings and feedback for each course.
-2. Insights: This page will have detailed insights into the instructor's courses, including the number of views, clicks, and other relevant metrics.
-3. Course Management Pages: These pages will allow the instructor to create, update, and delete courses, as well as manage the course content and pricing.
-4. View and Edit Profile Details: These pages will allow the instructor to view and edit their account details. PAGE 3 For Admin (this is for future scope):
-5. Dashboard: This page will have an overview of the platform's courses, instructors, and students.
-6. Insights: This page will have detailed insights into the platform's metrics, including the number of registered users, courses, and revenue.
-7. Instructor Management: This page will allow the admin to manage the platform's instructors, including their account details, courses, and ratings.
-8. Other Relevant Pages: The admin will also have access to other relevant pages, such as user management and course management pages.
+1. Dashboard: This page will have an overview of the instructor's courses, as well as the ratings and feedback for each course.<br>
+2. Insights: This page will have detailed insights into the instructor's courses, including the number of views, clicks, and other relevant metrics.<br>
+3. Course Management Pages: These pages will allow the instructor to create, update, and delete courses, as well as manage the course content and pricing.<br>
+4. View and Edit Profile Details: These pages will allow the instructor to view and edit their account details. PAGE 3 For Admin (this is for future scope).<br>
+5. Dashboard: This page will have an overview of the platform's courses, instructors, and students.<br>
+6. Insights: This page will have detailed insights into the platform's metrics, including the number of registered users, courses, and revenue.<br>
+7. Instructor Management: This page will allow the admin to manage the platform's instructors, including their account details, courses, and ratings.<br>
+8. Other Relevant Pages: The admin will also have access to other relevant pages, such as user management and course management pages.<br>
 
 To build the front end, we use frameworks and libraries such as ReactJS, We also use CSS and Tailwind, which are styling frameworks that help make the user interface look good and responsive. To manage the state of the application, we use Redux, which is a popular state management library for React.
 
