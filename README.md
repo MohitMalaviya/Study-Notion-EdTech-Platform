@@ -122,16 +122,17 @@ Response: A success message indicating that the course has been deleted.
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/himanshu8443/Study-Notion-master.git
+    git clone https://github.com/MohitMalaviya/Study-Notion-EdTech-Platform
     ```
 
 2. Install the required packages.
     ```sh
-    cd Study-Notion-master
+    cd Study Notion -Ed Tech Platform> cd .\server
     npm install
+    nodemon
     
-    cd server
-    npm install
+    cd .\src
+    npm start
     ```
 
 3. Set up the environment variables:
@@ -142,7 +143,8 @@ Response: A success message indicating that the course has been deleted.
 
 4. Start the development server.
     ```sh
-    npm run dev
+    npm start ==> for frontend
+    nodemon  ==>  for backend
     ```
 
 5. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
